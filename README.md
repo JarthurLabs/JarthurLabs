@@ -117,8 +117,8 @@ William Paterson University, Wayne, NJ
 ## 🌐 Connect With Me
 
 - 📧 Email: jamalarthur.jna@gmail.com  
-- 💻 GitHub: https://github.com/JarthurLabs  
-
+- 💻 GitHub: https://github.com/JarthurLabs
+- LinkedIn: https://www.linkedin.com/in/jamal-nicholas-a-510a68243
 ---
 
 ⭐ *Always open to collaboration, consulting opportunities, and innovative SaaS/CRM projects.*
