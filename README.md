@@ -2,6 +2,8 @@
 <h3 align="center">Solutions Specialist | SaaS Implementation Consultant | CRM Expert</h3>
 
 <p align="center">
+
+  <a href="https://www.linkedin.com/in/jamal-nicholas-a-510a68243"> LinkedIn</a>
   <a href="mailto:jamalarthur.jna@gmail.com">📧 Email</a> •
   <a href="https://github.com/JarthurLabs">💻 GitHub</a>
 </p>
