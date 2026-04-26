@@ -2,7 +2,7 @@
 <h3 align="center">Solutions Specialist | SaaS Implementation Consultant | CRM Expert</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamal-nicholas-a-510a68243"> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jamal-nicholas-a-510a68243">💼 LinkedIn</a>
   <a href="mailto:jamalarthur.jna@gmail.com">📧 Email</a> 
   <a href="https://github.com/JarthurLabs">💻 GitHub</a>
 </p>
@@ -118,7 +118,7 @@ William Paterson University, Wayne, NJ
 
 - 📧 Email: jamalarthur.jna@gmail.com  
 - 💻 GitHub: https://github.com/JarthurLabs
-- LinkedIn: https://www.linkedin.com/in/jamal-nicholas-a-510a68243
+- 💼 LinkedIn: https://www.linkedin.com/in/jamal-nicholas-a-510a68243
 ---
 
 ⭐ *Always open to collaboration, consulting opportunities, and innovative SaaS/CRM projects.*
