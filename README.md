@@ -22,10 +22,11 @@ I specialize in delivering end-to-end solutions—from discovery sessions and re
 ## 🛠️ Technical Skills
 
 ### 🔹 Platforms & Tools
+- Google Cybersecurity Certification
 - Salesforce (Certified Admin)  
 - HubSpot  
 - Microsoft Dynamics  
-- Veruna  
+- Splunk  
 - Power BI  
 - SQL  
 - Excel  
