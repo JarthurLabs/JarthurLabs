@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamal Nicholas Arthur</h1>
-<h3 align="center">Solutions Specialist | SaaS Implementation Consultant | CRM Expert</h3>
+<h3 align="center">Cybersecurity Analyst in Training | SaaS Implementation & Security Documentation | IAM, GRC, SOC Labs</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jamal-nicholas-a-510a68243">💼 LinkedIn</a>
