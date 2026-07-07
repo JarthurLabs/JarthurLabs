@@ -98,11 +98,7 @@ I specialize in delivering end-to-end solutions—from discovery sessions and re
 - Assisted patients with billing and financial documentation  
 
 ---
-
-## 🎓 Education
-
-🎓 Bachelor of Science in Anthropology (Candidate)  
-William Paterson University, Wayne, NJ  
+ 
 
 ---
 
