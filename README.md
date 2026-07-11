@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Analyst in Training | SaaS Implementation & Security Documentation | IAM, GRC, SOC Labs</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamal-nicholas-a-510a68243">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jamalnicholasarthur/">💼 LinkedIn</a>
   <a href="mailto:jamalarthur.jna@gmail.com">📧 Email</a> 
   <a href="https://github.com/JarthurLabs">💻 GitHub</a>
 </p>
@@ -16,6 +16,14 @@ Results-driven technology consultant with **5+ years of experience** in designin
 I specialize in delivering end-to-end solutions—from discovery sessions and requirements gathering to implementation and post-launch success.  
 
 💡 Passionate about solving complex business problems through tailored technology solutions.
+
+---
+
+## 🔐 Featured Security Projects
+
+- [HarborCare SOC Alert Triage Lab](https://github.com/JarthurLabs/Cysa-Alert-Triage-Lab) - Python-based alert triage, detection tuning, incident reporting, and vulnerability prioritization using synthetic security data.
+- [IAM Access Review & Least Privilege](https://github.com/JarthurLabs/IAM-Access-Review-Least-Privilege) - Access-review decisions, RBAC, MFA governance, privileged access, and joiner-mover-leaver workflows.
+- [Vulnerability Assessment & Remediation Plan](https://github.com/JarthurLabs/Vulnerability-Assessment-Remediation-Plan) - Risk-based prioritization, ownership, remediation planning, and retest validation.
 
 ---
 
@@ -115,7 +123,7 @@ I specialize in delivering end-to-end solutions—from discovery sessions and re
 
 - 📧 Email: jamalarthur.jna@gmail.com  
 - 💻 GitHub: https://github.com/JarthurLabs
-- 💼 LinkedIn: https://www.linkedin.com/in/jamal-nicholas-a-510a68243
+- 💼 LinkedIn: https://www.linkedin.com/in/jamalnicholasarthur/
 ---
 
 ⭐ *Always open to collaboration, consulting opportunities, and innovative SaaS/CRM projects.*
