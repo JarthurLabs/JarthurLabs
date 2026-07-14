@@ -21,28 +21,45 @@ My background combines production experience in role-based permissions, secure c
 
 ## Certifications
 
+<p align="center"><em>Click any credential badge to view the individual verification page.</em></p>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
+      <a href="https://www.credly.com/badges/86f11302-7102-47e7-9a0c-d904e0b33d95">
         <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="150" alt="Official CompTIA Security+ ce Certification badge" />
       </a>
       <br />
       <strong>CompTIA Security+</strong>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.credly.com/org/comptia/badge/comptia-cysa-ce-certification">
+      <a href="https://www.credly.com/badges/9e0a72b7-e46f-410e-b90d-c49b5295ca1f">
         <img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" width="150" alt="Official CompTIA CySA+ ce Certification badge" />
       </a>
       <br />
       <strong>CompTIA Cybersecurity Analyst (CySA+)</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/229ed0f3-8c72-409d-ace4-27c95222c4f7">
+        <img src="https://images.credly.com/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/linkedin_thumb_CompTIA_CSAP.png" width="150" alt="Official CompTIA Security Analytics Professional certification badge" />
+      </a>
+      <br />
+      <strong>CompTIA Security Analytics Professional (CSAP)</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/dfad5075-53b6-47b3-b738-d76fe5293bc7">
+        <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="150" alt="Official Google Cybersecurity Professional Certificate badge" />
+      </a>
+      <br />
+      <strong>Google Cybersecurity Professional Certificate</strong>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-Certified%20Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Certified Administrator" />
-  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
 </p>
 
 ## Featured Security Projects
