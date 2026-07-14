@@ -1,129 +1,106 @@
-<h1 align="center">Hi 👋, I'm Jamal Nicholas Arthur</h1>
-<h3 align="center">Cybersecurity Analyst in Training | SaaS Implementation & Security Documentation | IAM, GRC, SOC Labs</h3>
+<h1 align="center">Nicholas Arthur</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamalnicholasarthur/">💼 LinkedIn</a>
-  <a href="mailto:jamalarthur.jna@gmail.com">📧 Email</a> 
-  <a href="https://github.com/JarthurLabs">💻 GitHub</a>
+  <strong>SaaS Implementation Professional | CompTIA CySA+ & Security+ | IAM, GRC & Security Operations</strong>
 </p>
-
----
-
-## 🧑‍💼 About Me
-
-Results-driven technology consultant with **5+ years of experience** in designing, implementing, and optimizing SaaS and CRM solutions across healthcare, insurance, and tech industries.  
-
-I specialize in delivering end-to-end solutions—from discovery sessions and requirements gathering to implementation and post-launch success.  
-
-💡 Passionate about solving complex business problems through tailored technology solutions.
-
----
-
-## 🔐 Featured Security Projects
-
-- [HarborCare SOC Alert Triage Lab](https://github.com/JarthurLabs/Cysa-Alert-Triage-Lab) - Python-based alert triage, detection tuning, incident reporting, and vulnerability prioritization using synthetic security data.
-- [IAM Access Review & Least Privilege](https://github.com/JarthurLabs/IAM-Access-Review-Least-Privilege) - Access-review decisions, RBAC, MFA governance, privileged access, and joiner-mover-leaver workflows.
-- [Vulnerability Assessment & Remediation Plan](https://github.com/JarthurLabs/Vulnerability-Assessment-Remediation-Plan) - Risk-based prioritization, ownership, remediation planning, and retest validation.
-
----
-
-## 🛠️ Technical Skills
-
-### 🔹 Platforms & Tools
-- Google Cybersecurity Certification
-- Salesforce (Certified Admin)  
-- HubSpot  
-- Microsoft Dynamics  
-- Splunk  
-- Power BI  
-- SQL  
-- Excel  
-- Jira  
-
-### 🔹 Implementation & Delivery
-- SaaS Implementation  
-- CRM Configuration  
-- Data Migration  
-- Workflow Design  
-- Change Management  
-
-### 🔹 Communication & Stakeholder Engagement
-- Requirements Gathering  
-- Technical Demos  
-- Training & Enablement  
-- RFP Writing  
-
-### 🔹 Other Skills
-- Technical Writing  
-- Process Improvement  
-- Cross-Functional Collaboration  
-- Remote & Onsite Support  
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Veruna  
-**Solutions Specialist & Implementation Consultant**  
-📅 Sep 2022 – May 2025  
-
-- Delivered tailored SaaS solutions across insurance, tech, and finance industries  
-- Led discovery sessions and translated business needs into technical requirements  
-- Built demos and proof-of-concepts to increase sales conversions  
-- Collaborated with cross-functional teams for seamless implementation  
-- Supported training, onboarding, and customer success initiatives  
-
----
-
-### 🏢 Liberty Software  
-**Software Installer & Trainer (Onsite/Remote)**  
-📅 Apr 2020 – Sep 2022  
-
-- Installed and configured pharmacy software systems  
-- Troubleshot technical issues and ensured system performance  
-- Conducted training sessions and onboarding programs  
-- Assisted clients via remote and in-person support  
-- Improved software usability through feedback and reporting  
-
----
-
-### 🏢 United Health Group / Optum Care Health  
-**Clinical Pharmacy Technician**  
-📅 Jan 2020 – Aug 2020  
-
-- Managed home infusion cases and patient coordination  
-- Ensured insurance coverage accuracy and documentation  
-- Coordinated with healthcare providers for patient care  
-
----
-
-### 🏢 Conduent  
-**Reimbursement Specialist**  
-📅 Apr 2018 – Aug 2019  
-
-- Processed insurance claims and prior authorizations  
-- Improved turnaround time and accuracy in claims processing  
-- Assisted patients with billing and financial documentation  
-
----
- 
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JarthurLabs&show_icons=true&theme=default" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarthurLabs" alt="streak" />
+  <a href="https://www.linkedin.com/in/jamalnicholasarthur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Nicholas Arthur on LinkedIn" />
+  </a>
+  <a href="mailto:jamalarthur.jna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Nicholas Arthur" />
+  </a>
 </p>
 
+## Professional Profile
+
+I am a Security+ and CySA+-certified SaaS implementation professional with **5+ years of experience** leading client onboarding, system configuration, access and workflow troubleshooting, training, documentation, and post-launch support across insurance, healthcare, and pharmacy technology.
+
+My background combines production experience in role-based permissions, secure configuration, regulated data handling, and cross-functional issue resolution with hands-on security projects in SOC alert triage, Python-based detection, IAM access reviews, vulnerability prioritization, and incident documentation. I work at the intersection of client-facing technical delivery and practical defensive-security analysis.
+
+## Certifications
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
+        <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="150" alt="Official CompTIA Security+ ce Certification badge" />
+      </a>
+      <br />
+      <strong>CompTIA Security+</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/org/comptia/badge/comptia-cysa-ce-certification">
+        <img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" width="150" alt="Official CompTIA CySA+ ce Certification badge" />
+      </a>
+      <br />
+      <strong>CompTIA Cybersecurity Analyst (CySA+)</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-Certified%20Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Certified Administrator" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+</p>
+
+## Featured Security Projects
+
+| Project | Evidence demonstrated |
+| --- | --- |
+| [**CySA+ Alert Triage & Detection Lab**](https://github.com/JarthurLabs/Cysa-Alert-Triage-Lab) | Reviewed captured Windows activity logs from a public Splunk dataset, separated stronger security concerns from lower-risk events, and built a Python process that validates the source data and recreates the findings. |
+| [**IAM Access Review & Least Privilege**](https://github.com/JarthurLabs/IAM-Access-Review-Least-Privilege) | Completed a working Keycloak mover scenario, removed access no longer needed, assigned access for the new role, and automated before-and-after checks with an audit record. |
+| [**Vulnerability Assessment & Remediation Plan**](https://github.com/JarthurLabs/Vulnerability-Assessment-Remediation-Plan) | Prioritized six sample vulnerabilities using business impact, exposure, severity, and remediation effort, then created a 30/60/90-day remediation and retesting plan. |
+
+## Core Capabilities
+
+| Security Operations | IAM, GRC & Secure Access | SaaS Implementation |
+| --- | --- | --- |
+| Alert triage, log analysis, detection tuning, incident documentation, MITRE ATT&CK mapping, vulnerability prioritization | RBAC, least privilege, MFA governance, access reviews, joiner-mover-leaver workflows, risk documentation, permissions troubleshooting | Discovery, requirements gathering, CRM configuration, workflow design, data migration support, UAT, go-live, change management |
+
+**Enablement & support:** Customer onboarding, administrator and end-user training, technical documentation, knowledge bases, RFP support, and escalations.
+
+## Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux fundamentals" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+</p>
+
+## Experience Snapshot
+
+### Veruna
+
+**Solutions Specialist and Implementation Consultant** | September 2022 - May 2025
+
+- Led discovery and end-to-end SaaS/CRM implementation workflows for insurance clients, translating business requirements into configuration decisions, rollout plans, demonstrations, and user-enablement materials.
+- Supported role-based workflows, permissions, secure access practices, troubleshooting, UAT, go-live preparation, training, documentation, and post-launch support.
+- Converted recurring implementation pain points into product feedback that influenced **10+ feature enhancements** and customer-experience improvements.
+
+### Liberty Software
+
+**Software Implementation & Systems Support Specialist** | April 2020 - September 2022
+
+- Delivered pharmacy software implementations involving workstation setup, application configuration, peripheral installation, network-connectivity validation, and server-communication checks.
+- Troubleshot endpoint, network, server-connectivity, application-performance, access, and workflow issues while supporting software conversions, training, and go-live activities in regulated environments.
+
+**Additional regulated-industry experience:** United Health Group / Option Care Health, Clinical Pharmacy Technician (January 2020 - April 2021) and Conduent, Reimbursement Specialist (April 2018 - August 2019).
+
 ---
 
-## 🌐 Connect With Me
-
-- 📧 Email: jamalarthur.jna@gmail.com  
-- 💻 GitHub: https://github.com/JarthurLabs
-- 💼 LinkedIn: https://www.linkedin.com/in/jamalnicholasarthur/
----
-
-⭐ *Always open to collaboration, consulting opportunities, and innovative SaaS/CRM projects.*
+<p align="center">
+  <strong>Connect:</strong>
+  <a href="https://www.linkedin.com/in/jamalnicholasarthur/">LinkedIn</a>
+  ·
+  <a href="mailto:jamalarthur.jna@gmail.com">Email</a>
+</p>
